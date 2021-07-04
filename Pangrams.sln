@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangrams", "Pangrams.csproj", "{F463B966-337D-4CD2-8344-225BF2CD640D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F463B966-337D-4CD2-8344-225BF2CD640D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F463B966-337D-4CD2-8344-225BF2CD640D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F463B966-337D-4CD2-8344-225BF2CD640D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F463B966-337D-4CD2-8344-225BF2CD640D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C6126FF-0877-4B59-9EEB-E1DB59EED33C}
+	EndGlobalSection
+EndGlobal
